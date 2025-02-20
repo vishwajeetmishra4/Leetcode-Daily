@@ -1,0 +1,26 @@
+name: "Pull Request"
+description: "Submit a new solution or update for the LeetCode Daily Problems repository."
+labels: ["solution", "enhancement"]
+
+📌 Description
+
+Please provide a concise summary of your contribution.
+
+🔍 Related Issue
+
+Link to the relevant issue (if applicable): #IssueNumber
+
+🚀 Changes Made
+
+📝 Checklist
+
+📷 Screenshots (if applicable)
+
+Attach relevant screenshots or test outputs.
+
+💬 Additional Notes
+
+Any additional information you would like to share about this PR.
+
+Thank you for contributing! 🚀
+
