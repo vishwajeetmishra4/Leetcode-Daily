@@ -17,5 +17,13 @@ This repository is open to contributions! Feel free to:
 ✅ Share explanations or insights 💡  
 ✅ Report issues or suggest enhancements 🔧  
 
+## **How to Contribute?**  
+✅ Create a folder with the language name (if not already present).  
+✅ Add your solution file inside the respective folder.  
+✅ Follow proper coding conventions and add comments if needed.  
+✅ Submit a Pull Request (PR) with a meaningful commit message.  
+
+Your contributions help others learn and improve! 💡✨  
 Contributions, suggestions, and discussions are always welcome! 😊✨
+
 
