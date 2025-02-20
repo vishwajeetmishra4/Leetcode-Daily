@@ -1,0 +1,30 @@
+Dart- LeetCode Solutions 🚀
+
+This folder contains solutions to LeetCode problems implemented in Dart.
+
+📌 Contribution Guidelines:
+1. File Naming:  
+   - Use meaningful filenames that match the problem name.  
+   - Example: `TwoSum.dart`, `two_sum.py`, `TwoSum.cpp`.
+
+2. Code Structure & Formatting: 
+   - Follow best coding practices and proper indentation.  
+   - Add comments where necessary to improve readability.
+
+3. Multiple Approaches:
+   - If a solution already exists, you can add an optimized or alternative approach.  
+   - Name your file accordingly (e.g., `TwoSum_Optimized.java`).
+
+4. Submitting Your Solution:
+   - Fork the repository and clone it to your local machine.  
+   - Add your solution inside the correct language folder.  
+   - Commit with a clear message (e.g., `"Added Two Sum solution in Java"`).  
+   - Open a Pull Request (PR) for review.
+
+✅ Best Practices:
+- Write clean and efficient code. 
+- Use meaningful variable names. 
+- Ensure correctness and test your code before submission.
+
+Your contributions help improve this repository and benefit the coding community! 🎯  
+Happy coding! 🚀✨  
